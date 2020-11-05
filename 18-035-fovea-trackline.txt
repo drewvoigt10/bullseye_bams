@@ -1,0 +1,2 @@
+    track type=bam name="My BAM" bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-035_fovea_RORB_sorted.bam?raw=true
+
