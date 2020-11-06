@@ -1,2 +1,26 @@
-    track type=bam name="My BAM" bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-035_fovea_RORB_sorted.bam?raw=true
 
+track type=bam name="Fovea-donor-1" visibility=3 bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-035_fovea_RORB_sorted.bam?raw=true bigDataIndex=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-035_fovea_RORB_sorted.bam.bai?raw=true
+
+track type=bam name="Fovea-donor-2" visibility=3 bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-039_fovea_RORB_sorted.bam?raw=true bigDataIndex=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-039_fovea_RORB_sorted.bam.bai?raw=true
+
+track type=bam name="Fovea-donor-3" visibility=3 bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-043_fovea_RORB_sorted.bam?raw=true bigDataIndex=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-043_fovea_RORB_sorted.bam.bai?raw=true
+
+track type=bam name="Fovea-donor-4" visibility=3 bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-044_fovea_RORB_sorted.bam?raw=true bigDataIndex=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-044_fovea_RORB_sorted.bam.bai?raw=true
+
+
+track type=bam name="Perifovea-donor-1" visibility=3 bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-035_perifovea_RORB_sorted.bam?raw=true bigDataIndex=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-035_perifovea_RORB_sorted.bam.bai?raw=true
+
+track type=bam name="Perifovea-donor-2" visibility=3 bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-039_perifovea_RORB_sorted.bam?raw=true bigDataIndex=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-039_perifovea_RORB_sorted.bam.bai?raw=true
+
+track type=bam name="Perifovea-donor-3" visibility=3 bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-043_perifovea_RORB_sorted.bam?raw=true bigDataIndex=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-043_perifovea_RORB_sorted.bam.bai?raw=true
+
+track type=bam name="Perifovea-donor-4" visibility=3 bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-044_perifovea_RORB_sorted.bam?raw=true bigDataIndex=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-044_perifovea_RORB_sorted.bam.bai?raw=true
+
+
+track type=bam name="Macula-donor-1" visibility=3 bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-035_macula_RORB_sorted.bam?raw=true bigDataIndex=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-035_macula_RORB_sorted.bam.bai?raw=true
+
+track type=bam name="Macula-donor-2" visibility=3 bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-039_macula_RORB_sorted.bam?raw=true bigDataIndex=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-039_macula_RORB_sorted.bam.bai?raw=true
+
+track type=bam name="Macula-donor-3" visibility=3 bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-043_macula_RORB_sorted.bam?raw=true bigDataIndex=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-043_macula_RORB_sorted.bam.bai?raw=true
+
+track type=bam name="Macula-donor-4" visibility=3 bigDataUrl=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-044_macula_RORB_sorted.bam?raw=true bigDataIndex=https://github.com/drewvoigt10/bullseye_bams/blob/main/18-044_macula_RORB_sorted.bam.bai?raw=true
